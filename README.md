@@ -21,12 +21,12 @@ YouTube Demo: https://youtu.be/vt18P1Xw8lM
 - I played around with making the App move from a tab bar controller to the Gameview controller, but I think it would be too confusing for a user. So I should keep it in the titleView -> gameView -> EndView type loop
 
 # 03-10-2019
-- finally implemented my sub class hierarchy of the SKSpriteNode, and then replaced all instances of the SKSpriteNode using my new hierarchy. Which is as follows
-			  SKSpriteNode
-				      |
-			      MySprite
-			    /		       \
-		UserSprite		EnemySprite
+- finally implemented my sub class hierarchy of the SKSpriteNode, and then replaced all instances of the SKSpriteNode using my new hierarchy. Which is as follows:
+-			  	SKSpriteNode
+-				      |
+-			      	  MySprite
+-			    /		     \
+-		UserSprite		EnemySprite
 
 - I created this hierarchy to help with the double dispatching in the contact delegate to determine what should happen to specific sprites when they come in contact with certain other sprites
 
