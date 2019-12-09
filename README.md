@@ -1,5 +1,5 @@
 # RickAndMortyGame
-- Copyright &copy; by James Corcoran
+- By: James Corcoran
 - A basic 2D game made for iOS using Swift, Xcode, and the SpriteKit.
 - Created this game as a side hustle to learn and develop a mobile app for iOS.
 - I had a lot of fun an its a midly entertaining game hahaha.
