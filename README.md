@@ -4,8 +4,7 @@
 - Created this game as a side hustle to learn and develop a mobile app for iOS.
 - I had a lot of fun an its a midly entertaining game hahaha.
 
-- Check out the Demo at the link below:
-YouTube: https://youtu.be/vt18P1Xw8lM 
+YouTube Demo: https://youtu.be/vt18P1Xw8lM 
 
 # Notable bugs
 - physics push player sprite down , so I made it that each time the screen is tapped he moves upwards just a small amount
